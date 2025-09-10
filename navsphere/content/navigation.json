@@ -194,6 +194,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "040ea98a-d3ac-4c50-922f-7220bae1a950",
+          "title": "大语言模型",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
