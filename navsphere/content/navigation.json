@@ -127,7 +127,16 @@
           "icon": "Brain",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1757504739174_x9gmp2yyh",
+              "title": "Deepseek",
+              "href": "https://www.deepseek.com/",
+              "description": "访问 www.deepseek.com",
+              "icon": "/assets/favicon_1757504722280.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
