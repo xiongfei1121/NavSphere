@@ -183,6 +183,14 @@
               "description": "认识 Gemini：Google 旗下的 AI 助理。在写作、规划和开展头脑风暴等方面获得帮助。体验生成式 AI 的强大功能。",
               "icon": "/assets/favicon_1757505702984.svg",
               "enabled": true
+            },
+            {
+              "id": "1757505728494",
+              "title": "Chatgpt",
+              "href": "https://chatgpt.com/",
+              "description": "访问 chatgpt.com",
+              "icon": "/assets/favicon_1757505729476.png",
+              "enabled": true
             }
           ]
         },
