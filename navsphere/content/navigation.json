@@ -185,14 +185,6 @@
               "enabled": true
             },
             {
-              "id": "1757505728494",
-              "title": "Chatgpt",
-              "href": "https://chatgpt.com/",
-              "description": "访问 chatgpt.com",
-              "icon": "/assets/favicon_1757505729476.png",
-              "enabled": true
-            },
-            {
               "id": "9_1",
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
