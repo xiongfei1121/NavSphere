@@ -167,6 +167,14 @@
               "description": "通义是一个通情、达义的国产AI模型，可以帮你解答问题、文档阅读、联网搜索并写作总结，最多支持1000万字的文档速读。通义_你的全能AI助手",
               "icon": "/assets/favicon_1757504902461.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757505019268_xwyk9ine1",
+              "title": "智谱AI",
+              "href": "https://open.bigmodel.cn/",
+              "description": "北京智谱华章科技股份有限公司（简称“智谱”）致力于打造新一代认知智能大模型，专注于做大模型的中国创新。",
+              "icon": "/assets/favicon_1757504943476.png",
+              "enabled": true
             }
           ]
         },
