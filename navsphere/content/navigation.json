@@ -135,6 +135,14 @@
               "description": "访问 www.deepseek.com",
               "icon": "/assets/favicon_1757504722280.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757504777676_dkkm8whob",
+              "title": "Kimi - 更强大的 AI 助手",
+              "href": "https://www.kimi.com/",
+              "description": "Kimi K2 是我们最新升级的 AI 助手，擅长推理、编程和调用工具，帮助你高效解决复杂问题。无论是工作、学习还是创作，都可以试试用 Kimi K2 来完成。",
+              "icon": "/assets/favicon_1757504761207.png",
+              "enabled": true
             }
           ]
         },
