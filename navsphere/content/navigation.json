@@ -105,6 +105,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "040ea98a-d3ac-4c50-922f-7220bae1a950",
+          "title": "大语言模型",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
           "title": "AI助手",
           "icon": "Book",
@@ -194,14 +202,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "040ea98a-d3ac-4c50-922f-7220bae1a950",
-          "title": "大语言模型",
-          "icon": "Brain",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
