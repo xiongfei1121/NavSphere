@@ -175,6 +175,14 @@
               "description": "北京智谱华章科技股份有限公司（简称“智谱”）致力于打造新一代认知智能大模型，专注于做大模型的中国创新。",
               "icon": "/assets/favicon_1757504943476.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757505118468_pp99yfjtd",
+              "title": "豆包",
+              "href": "https://www.doubao.com/chat/",
+              "description": "字节豆包",
+              "icon": "/assets/favicon_1757505067697.png",
+              "enabled": true
             }
           ]
         },
