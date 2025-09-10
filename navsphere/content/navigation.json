@@ -405,7 +405,16 @@
       "icon": "Video",
       "description": "自媒体工具包",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1757504455421_i12ukao6i",
+          "title": "讯飞智作",
+          "href": "https://peiyin.xunfei.cn/",
+          "description": "访问 peiyin.xunfei.cn",
+          "icon": "/assets/favicon_1757504417180.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
