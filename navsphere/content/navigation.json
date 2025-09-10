@@ -143,6 +143,14 @@
               "description": "Kimi K2 是我们最新升级的 AI 助手，擅长推理、编程和调用工具，帮助你高效解决复杂问题。无论是工作、学习还是创作，都可以试试用 Kimi K2 来完成。",
               "icon": "/assets/favicon_1757504761207.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757504824964_uwotinqd9",
+              "title": "腾讯元宝",
+              "href": "https://yuanbao.tencent.com/",
+              "description": "腾讯元宝是基于腾讯混元大模型的AI应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手",
+              "icon": "/assets/favicon_1757504810180.png",
+              "enabled": true
             }
           ]
         },
