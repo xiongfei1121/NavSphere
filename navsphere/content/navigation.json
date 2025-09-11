@@ -86,6 +86,14 @@
           "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
           "icon": "/assets/images/logos/json.png",
           "enabled": true
+        },
+        {
+          "id": "3_3",
+          "title": "Beautifier",
+          "href": "https://beautifier.io/",
+          "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
+          "icon": "/assets/images/logos/beautifier.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -96,14 +104,6 @@
           "icon": "Folder",
           "description": "",
           "items": [
-            {
-              "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.png",
-              "enabled": true
-            },
             {
               "id": "3_5",
               "title": "TinyPNG",
