@@ -152,6 +152,14 @@
           "description": "微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。",
           "icon": "/assets/favicon_1757574878040.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1757574925214_wlin8suuj",
+          "title": "融合工作平台",
+          "href": "http://mch.aktv.com.cn:19207/",
+          "description": "",
+          "icon": "/assets/favicon_1757574905299.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
