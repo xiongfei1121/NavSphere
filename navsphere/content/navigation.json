@@ -136,6 +136,14 @@
           "description": "视频号助手，视频号创作站点",
           "icon": "/assets/img_1736912962033.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757574803311_1szgv5igk",
+          "title": "抖音创作者中心",
+          "href": "https://creator.douyin.com/creator-micro/home",
+          "description": "访问 creator.douyin.com",
+          "icon": "/assets/favicon_1757574786335.png",
+          "enabled": true
         }
       ],
       "subCategories": []
