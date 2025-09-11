@@ -158,6 +158,14 @@
           "description": "Animate Your Ideas, Design Better Apps",
           "icon": "/assets/images/logos/principle.png",
           "enabled": true
+        },
+        {
+          "id": "6_3",
+          "title": "flinto",
+          "href": "https://www.flinto.com/",
+          "description": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.",
+          "icon": "/assets/images/logos/flinto.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -195,14 +203,6 @@
           "icon": "Book",
           "description": "",
           "items": [
-            {
-              "id": "6_3",
-              "title": "flinto",
-              "href": "https://www.flinto.com/",
-              "description": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.",
-              "icon": "/assets/images/logos/flinto.png",
-              "enabled": true
-            },
             {
               "id": "6_4",
               "title": "framer",
