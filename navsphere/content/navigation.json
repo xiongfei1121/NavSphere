@@ -96,6 +96,14 @@
           "description": "访问 www.feishu.cn",
           "icon": "/assets/favicon_1757566728450.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757566788695_ghvgg9isg",
+          "title": "腾讯文档",
+          "href": "https://docs.qq.com/",
+          "description": "多人在线编辑Word、Excel和PPT文档",
+          "icon": "/assets/favicon_1757566767991.png",
+          "enabled": true
         }
       ],
       "subCategories": []
