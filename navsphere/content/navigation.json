@@ -94,6 +94,14 @@
           "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
           "icon": "/assets/images/logos/beautifier.png",
           "enabled": true
+        },
+        {
+          "id": "3_5",
+          "title": "TinyPNG",
+          "href": "https://tinypng.com/",
+          "description": "在线图片压缩工具",
+          "icon": "/assets/images/logos/tinypng.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -104,14 +112,6 @@
           "icon": "Folder",
           "description": "",
           "items": [
-            {
-              "id": "3_5",
-              "title": "TinyPNG",
-              "href": "https://tinypng.com/",
-              "description": "在线图片压缩工具",
-              "icon": "/assets/images/logos/tinypng.png",
-              "enabled": true
-            },
             {
               "id": "1735256523960",
               "title": "ScreenShots.pro",
