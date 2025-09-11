@@ -75,6 +75,15 @@
       "enabled": true
     },
     {
+      "id": "1757553378462",
+      "title": "办公工具",
+      "icon": "Flag",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -945,15 +954,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1757553378462",
-      "title": "办公工具",
-      "icon": "Flag",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
