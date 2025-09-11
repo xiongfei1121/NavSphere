@@ -104,6 +104,14 @@
           "description": "多人在线编辑Word、Excel和PPT文档",
           "icon": "/assets/favicon_1757566767991.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757566830373_v0cfvch41",
+          "title": "腾讯邮箱",
+          "href": "https://wx.mail.qq.com/",
+          "description": "访问 wx.mail.qq.com",
+          "icon": "/assets/favicon_1757566818440.png",
+          "enabled": true
         }
       ],
       "subCategories": []
