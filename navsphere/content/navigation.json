@@ -166,6 +166,14 @@
           "description": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.",
           "icon": "/assets/images/logos/flinto.png",
           "enabled": true
+        },
+        {
+          "id": "6_4",
+          "title": "framer",
+          "href": "https://framer.com/",
+          "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
+          "icon": "/assets/images/logos/framer.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -202,16 +210,7 @@
           "href": "#交互动效",
           "icon": "Book",
           "description": "",
-          "items": [
-            {
-              "id": "6_4",
-              "title": "framer",
-              "href": "https://framer.com/",
-              "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
-              "icon": "/assets/images/logos/framer.png",
-              "enabled": true
-            }
-          ],
+          "items": [],
           "enabled": true
         },
         {
