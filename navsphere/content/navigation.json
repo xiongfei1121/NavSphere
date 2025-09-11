@@ -144,6 +144,14 @@
           "description": "访问 creator.douyin.com",
           "icon": "/assets/favicon_1757574786335.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757574882610_jwb8azw0o",
+          "title": "微信公众平台",
+          "href": "https://mp.weixin.qq.com/",
+          "description": "微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。",
+          "icon": "/assets/favicon_1757574878040.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
