@@ -80,7 +80,16 @@
       "icon": "Flag",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1757566692835_el8c3jl54",
+          "title": "秘塔写作猫",
+          "href": "https://xiezuocat.com/",
+          "description": "",
+          "icon": "/assets/favicon_1757566684027.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
