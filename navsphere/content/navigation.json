@@ -88,6 +88,14 @@
           "description": "",
           "icon": "/assets/favicon_1757566684027.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757566742802_so6gs13wu",
+          "title": "飞书",
+          "href": "https://www.feishu.cn/",
+          "description": "访问 www.feishu.cn",
+          "icon": "/assets/favicon_1757566728450.png",
+          "enabled": true
         }
       ],
       "subCategories": []
