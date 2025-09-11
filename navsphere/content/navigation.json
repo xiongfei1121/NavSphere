@@ -120,6 +120,14 @@
           "description": "秀米，微信公众号排版和H5制作工具，海量模板素材和排版样式，强大的布局编辑功能，轻松制作公众号文章和H5，打动你的人群！",
           "icon": "/assets/favicon_1757574413587.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757574697050_rjbucg0fi",
+          "title": "135编辑器",
+          "href": "https://www.135editor.com/",
+          "description": "访问 www.135editor.com",
+          "icon": "/assets/favicon_1757574683100.png",
+          "enabled": true
         }
       ],
       "subCategories": []
