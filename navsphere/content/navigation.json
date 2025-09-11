@@ -150,6 +150,14 @@
           "description": "电影般的视觉效果和动态图形。",
           "icon": "/assets/images/logos/AdobeAfterEffectsCC.png",
           "enabled": true
+        },
+        {
+          "id": "6_2",
+          "title": "principle",
+          "href": "http://principleformac.com/",
+          "description": "Animate Your Ideas, Design Better Apps",
+          "icon": "/assets/images/logos/principle.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -187,14 +195,6 @@
           "icon": "Book",
           "description": "",
           "items": [
-            {
-              "id": "6_2",
-              "title": "principle",
-              "href": "http://principleformac.com/",
-              "description": "Animate Your Ideas, Design Better Apps",
-              "icon": "/assets/images/logos/principle.png",
-              "enabled": true
-            },
             {
               "id": "6_3",
               "title": "flinto",
