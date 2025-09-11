@@ -756,14 +756,6 @@
               "enabled": true
             },
             {
-              "id": "1754791158725",
-              "title": "NeuraPress",
-              "href": "https://md.leti.ltd/",
-              "description": "Markdown 转微信公众号内容神器",
-              "icon": "/assets/favicon_1754791168416.svg",
-              "enabled": true
-            },
-            {
               "id": "item-1756907352615",
               "enabled": true,
               "title": "MD2Card - Markdown 转知识卡片工具",
