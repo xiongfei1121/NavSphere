@@ -329,6 +329,14 @@
               "description": "访问 jimeng.jianying.com",
               "icon": "/assets/favicon_1757671514526.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757671575165_pjvwfou99",
+              "title": "可灵AI",
+              "href": "https://app.klingai.com/cn/",
+              "description": "Create professional videos and images with Kling AI",
+              "icon": "/assets/favicon_1757671549418.ico",
+              "enabled": true
             }
           ]
         }
