@@ -305,6 +305,14 @@
               "description": "各种各样的 MCP Server",
               "icon": "/assets/img_1752554273115.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757671380027_ifumhgejd",
+              "title": "扣子",
+              "href": "https://www.coze.cn/",
+              "description": "访问 www.coze.cn",
+              "icon": "/assets/favicon_1757671365860.png",
+              "enabled": true
             }
           ]
         }
