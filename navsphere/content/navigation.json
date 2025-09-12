@@ -703,7 +703,7 @@
       "title": "自媒体工具包",
       "icon": "Video",
       "description": "自媒体工具包",
-      "enabled": true,
+      "enabled": false,
       "items": [],
       "subCategories": [
         {
