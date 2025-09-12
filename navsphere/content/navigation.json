@@ -337,6 +337,14 @@
               "description": "Create professional videos and images with Kling AI",
               "icon": "/assets/favicon_1757671549418.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757671610818_uothnldrx",
+              "title": "ima.copilot-腾讯AI工作台",
+              "href": "https://ima.qq.com/",
+              "description": "ima.copilot（简称ima）是一款以知识库为核心的AI工作台产品，已接入腾讯混元大模型和DeepSeek R1模型满血版。ima是搜、读、写一体的效率工具，旨在帮助有较强知识获取、信息处理、内容输出需求的用户，提升学习、办公效率。",
+              "icon": "/assets/favicon_1757671599705.svg",
+              "enabled": true
             }
           ]
         }
