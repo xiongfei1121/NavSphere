@@ -321,6 +321,14 @@
               "description": "访问 ai-bot.cn",
               "icon": "/assets/favicon_1757671406608.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757671530125_vxpcsswcp",
+              "title": "即梦AI",
+              "href": "https://jimeng.jianying.com/ai-tool/home",
+              "description": "访问 jimeng.jianying.com",
+              "icon": "/assets/favicon_1757671514526.png",
+              "enabled": true
             }
           ]
         }
