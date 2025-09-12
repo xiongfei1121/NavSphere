@@ -345,6 +345,14 @@
               "description": "ima.copilot（简称ima）是一款以知识库为核心的AI工作台产品，已接入腾讯混元大模型和DeepSeek R1模型满血版。ima是搜、读、写一体的效率工具，旨在帮助有较强知识获取、信息处理、内容输出需求的用户，提升学习、办公效率。",
               "icon": "/assets/favicon_1757671599705.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1757671649725_xvoi5zo6w",
+              "title": "AI去人声",
+              "href": "https://aivocalremover.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=aivocalremover.com",
+              "enabled": true
             }
           ]
         }
