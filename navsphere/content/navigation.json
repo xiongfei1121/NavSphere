@@ -540,14 +540,6 @@
               "enabled": true
             },
             {
-              "id": "1752662613676",
-              "title": "Kiro",
-              "href": "https://kiro.dev/",
-              "description": "The AI IDE for prototype to production\n",
-              "icon": "/assets/img_1752662633580.png",
-              "enabled": true
-            },
-            {
               "id": "1752662747639",
               "title": "Claude code",
               "href": "https://www.anthropic.com/claude-code",
