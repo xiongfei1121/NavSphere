@@ -667,14 +667,6 @@
               "icon": "/assets/favicon_1756907338099.ico"
             }
           ]
-        },
-        {
-          "id": "e2b07afd-968c-4985-b6c2-8dc504bce17b",
-          "title": "录屏工具",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
