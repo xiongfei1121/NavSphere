@@ -466,14 +466,6 @@
       ],
       "subCategories": [
         {
-          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
-          "title": "ICON",
-          "icon": "BookOpen",
-          "description": "站点图标",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "62f10118-6926-4ea5-bb65-14adc90a29d2",
           "title": "AI编程工具",
           "icon": "Edit",
