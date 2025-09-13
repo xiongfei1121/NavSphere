@@ -1027,6 +1027,15 @@
       ],
       "description": "",
       "enabled": false
+    },
+    {
+      "id": "1757751476644",
+      "title": "学习资源",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
