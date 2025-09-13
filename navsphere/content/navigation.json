@@ -1034,7 +1034,16 @@
       "icon": "BookOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1757751599331_1zervy23k",
+          "title": "陕西省专业技术人员继续教育网",
+          "href": "http://jxjy.xidian.edu.cn/",
+          "description": "继续教育访问 jxjy.xidian.edu.cn",
+          "icon": "/assets/favicon_1757751565917.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
