@@ -622,6 +622,14 @@
           "description": "访问 peiyin.xunfei.cn",
           "icon": "/assets/favicon_1757504417180.png",
           "enabled": true
+        },
+        {
+          "id": "1736912680039",
+          "title": "小红书创作中心",
+          "href": "https://creator.xiaohongshu.com/",
+          "description": "小红书创作中心",
+          "icon": "/assets/img_1736912766835.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -638,14 +646,6 @@
               "href": "https://mp.weixin.qq.com/",
               "description": "公众号管理平台",
               "icon": "/assets/img_1736913249592.png",
-              "enabled": true
-            },
-            {
-              "id": "1736912680039",
-              "title": "小红书创作中心",
-              "href": "https://creator.xiaohongshu.com/",
-              "description": "小红书创作中心",
-              "icon": "/assets/img_1736912766835.png",
               "enabled": true
             }
           ]
