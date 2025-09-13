@@ -1050,6 +1050,14 @@
           "description": "访问 training.nrta.gov.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=training.nrta.gov.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1757751671756_9mhhheeyw",
+          "title": "国家中小学智慧教育平台",
+          "href": "https://basic.smartedu.cn/",
+          "description": "访问 basic.smartedu.cn",
+          "icon": "/assets/favicon_1757751653444.png",
+          "enabled": true
         }
       ],
       "subCategories": []
