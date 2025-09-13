@@ -462,6 +462,14 @@
           "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
           "icon": "/assets/img_1736922499401.png",
           "enabled": true
+        },
+        {
+          "id": "1737529639971",
+          "title": "Cursor",
+          "href": "https://www.cursor.com/",
+          "description": "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
+          "icon": "/assets/img_1737529713172.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -472,14 +480,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1737529639971",
-              "title": "Cursor",
-              "href": "https://www.cursor.com/",
-              "description": "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
-              "icon": "/assets/img_1737529713172.png",
-              "enabled": true
-            },
             {
               "id": "1737529752867",
               "title": "Windsurf",
