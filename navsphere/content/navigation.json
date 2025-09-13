@@ -68,6 +68,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1757752642131_v2zon3x2i",
+          "title": "安康市人民政府网站",
+          "href": "https://www.ankang.gov.cn/",
+          "description": "访问 www.ankang.gov.cn",
+          "icon": "/assets/favicon_1757752623678.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
