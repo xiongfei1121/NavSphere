@@ -414,6 +414,14 @@
           "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
           "icon": "/assets/favicon_1755225933031.ico",
           "enabled": true
+        },
+        {
+          "id": "1751433573273",
+          "title": "shadcn ui  Theme",
+          "href": "https://tweakcn.com/",
+          "description": "Design Your Perfect \nshadcn/ui\n Theme\nCustomize colors, typography, and layouts with a real-time preview. No signup required.",
+          "icon": "/assets/img_1751433579053.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -447,14 +455,6 @@
               "href": "https://ui.shadcn.com/",
               "description": "Build your component library\nBeautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.",
               "icon": "/assets/img_1735265752690.png",
-              "enabled": true
-            },
-            {
-              "id": "1751433573273",
-              "title": "shadcn ui  Theme",
-              "href": "https://tweakcn.com/",
-              "description": "Design Your Perfect \nshadcn/ui\n Theme\nCustomize colors, typography, and layouts with a real-time preview. No signup required.",
-              "icon": "/assets/img_1751433579053.png",
               "enabled": true
             }
           ]
