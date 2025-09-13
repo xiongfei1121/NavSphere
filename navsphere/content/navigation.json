@@ -614,6 +614,14 @@
           "description": "Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.",
           "icon": "/assets/favicon_1755168414977.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757504455421_i12ukao6i",
+          "title": "讯飞智作",
+          "href": "https://peiyin.xunfei.cn/",
+          "description": "访问 peiyin.xunfei.cn",
+          "icon": "/assets/favicon_1757504417180.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -638,14 +646,6 @@
               "href": "https://creator.xiaohongshu.com/",
               "description": "小红书创作中心",
               "icon": "/assets/img_1736912766835.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1757504455421_i12ukao6i",
-              "title": "讯飞智作",
-              "href": "https://peiyin.xunfei.cn/",
-              "description": "访问 peiyin.xunfei.cn",
-              "icon": "/assets/favicon_1757504417180.png",
               "enabled": true
             }
           ]
