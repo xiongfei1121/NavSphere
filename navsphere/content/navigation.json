@@ -1058,6 +1058,14 @@
           "description": "访问 basic.smartedu.cn",
           "icon": "/assets/favicon_1757751653444.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757751699357_fne5m8hxm",
+          "title": "PhET：免费的在线物理、化学、生物、地理及数学仿真程序",
+          "href": "https://phet.colorado.edu/zh_CN/",
+          "description": "由诺贝尔奖获得者卡尔·威曼于2002年创立，PhET互动仿真程序计划由科罗拉多大学的团队专项运营，旨在创建免费的数学和科学互动程序。 PhET 是基于拓展型教育的<a {0}>相关研究</a>并且激励学生在直观的、游戏化的环境中进行探索和发现。",
+          "icon": "/assets/favicon_1757751690267.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
