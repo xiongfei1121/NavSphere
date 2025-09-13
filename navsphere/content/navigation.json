@@ -598,6 +598,14 @@
           "description": "MD2Card 是一个免费的 Markdown 转知识卡片工具，支持一键生成小红书风格海报、社交媒体文案排版，让创作者轻松制作精美的图文内容。支持多种主题风格、长文自动拆分、一键导出图片，让你的创作更加高效。",
           "icon": "/assets/favicon_1756907338099.ico",
           "enabled": true
+        },
+        {
+          "id": "1754791068961",
+          "title": "NeuraPress Pro Markdown Editor",
+          "href": "https://mp.leti.ltd/",
+          "description": "NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的内容排版体验。 响应式设计，支持移动设备，让创作变得更加高效。\n\n",
+          "icon": "/assets/favicon_1754791082337.svg",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -657,16 +665,7 @@
           "icon": "Edit",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1754791068961",
-              "title": "NeuraPress Pro Markdown Editor",
-              "href": "https://mp.leti.ltd/",
-              "description": "NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的内容排版体验。 响应式设计，支持移动设备，让创作变得更加高效。\n\n",
-              "icon": "/assets/favicon_1754791082337.svg",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
