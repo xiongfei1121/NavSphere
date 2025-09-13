@@ -640,16 +640,7 @@
           "enabled": true
         }
       ],
-      "subCategories": [
-        {
-          "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
-          "title": "国内平台",
-          "icon": "FileText",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
+      "subCategories": []
     },
     {
       "id": "2",
