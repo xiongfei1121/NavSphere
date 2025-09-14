@@ -437,6 +437,14 @@
               "description": "AI模糊图片背景",
               "icon": "/assets/favicon_1757860634344.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757860728940_b6dz4je4f",
+              "title": "AI一键抠图",
+              "href": "https://remove.photos/zh-cn/",
+              "description": "在线抠图",
+              "icon": "/assets/favicon_1757860704318.png",
+              "enabled": true
             }
           ]
         }
