@@ -22,14 +22,6 @@
           "enabled": true
         },
         {
-          "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
-          "enabled": true
-        },
-        {
           "id": "1741747111596",
           "title": "PostSpark",
           "href": "https://postspark.app/",
@@ -607,6 +599,14 @@
           "href": "https://iconpark.oceanengine.com",
           "description": "字节跳动图标库",
           "icon": "/assets/favicon_1757819733795.svg",
+          "enabled": true
+        },
+        {
+          "id": "1735119857233",
+          "title": "截图美化工具",
+          "href": "https://shots.so/",
+          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
+          "icon": "/assets/images/logos/shots.webp",
           "enabled": true
         }
       ],
