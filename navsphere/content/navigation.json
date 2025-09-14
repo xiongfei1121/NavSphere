@@ -721,14 +721,6 @@
           "description": "",
           "items": [
             {
-              "id": "8_1_1",
-              "title": "Iconfinder",
-              "href": "https://www.iconfinder.com",
-              "description": "2,100,000+ free and premium vector icons.",
-              "icon": "/assets/images/logos/Iconfinder.png",
-              "enabled": true
-            },
-            {
               "id": "8_1_2",
               "title": "iconfont",
               "href": "http://www.iconfont.cn/",
