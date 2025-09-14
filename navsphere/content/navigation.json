@@ -821,6 +821,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1757838232235",
+      "title": "央媒省媒",
+      "icon": "LayoutList",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
