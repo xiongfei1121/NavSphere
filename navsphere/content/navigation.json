@@ -36,6 +36,14 @@
           "description": "影视聚合",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=v.ztt.qzz.io",
           "enabled": true
+        },
+        {
+          "id": "site_1757822793321_rdnfffw7p",
+          "title": "YouTube油管",
+          "href": "https://www.youtube.com/",
+          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+          "icon": "/assets/favicon_1757822782217.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
