@@ -202,6 +202,14 @@
           "description": "访问 esb.sxdaily.com.cn",
           "icon": "/assets/favicon_1757838364531.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757838417253_eo5nmswra",
+          "title": "学习强国-供稿系统",
+          "href": "https://gonggao2.xuexi.cn/?logout=1",
+          "description": "访问 gonggao2.xuexi.cn",
+          "icon": "/assets/favicon_1757838398105.png",
+          "enabled": true
         }
       ],
       "subCategories": []
