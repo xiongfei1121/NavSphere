@@ -828,7 +828,16 @@
       "icon": "LayoutList",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1757838259796_7828cf0m6",
+          "title": "新华网_让新闻离你更近",
+          "href": "https://www.xinhuanet.com/",
+          "description": "中国主要重点新闻网站,依托新华社遍布全球的采编网络,记者遍布世界100多个国家和地区,地方频道分布全国31个省市自治区,每天24小时同时使用6种语言滚动发稿,权威、准确、及时播发国内外重要新闻和重大突发事件,受众覆盖200多个国家和地区,发展论坛是全球知名的中文论坛。",
+          "icon": "/assets/favicon_1757838254151.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
