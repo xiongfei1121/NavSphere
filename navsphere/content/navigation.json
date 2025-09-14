@@ -471,6 +471,14 @@
           "description": "Unleash Claude’s raw power directly in your terminal. Search million-line codebases instantly. Turn hours-long workflows into a single command. Your tools. Your workflow. Your codebase, evolving at thought speed.",
           "icon": "/assets/img_1752662771107.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757821308326_d93786yc5",
+          "title": "爪云",
+          "href": "https://eu-central-1.run.claw.cloud/",
+          "description": "ClawCloud",
+          "icon": "/assets/favicon_1757821285909.png",
+          "enabled": true
         }
       ],
       "subCategories": []
