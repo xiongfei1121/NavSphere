@@ -481,7 +481,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "329b3203-da24-45c8-a22c-18ed49fee8c8",
+          "title": "云空间",
+          "icon": "Cloud",
+          "description": "云服务器",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1735433560958",
