@@ -14,14 +14,6 @@
           "enabled": true
         },
         {
-          "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-          "icon": "/assets/images/logos/tensorart.ico",
-          "enabled": true
-        },
-        {
           "id": "1741747111596",
           "title": "PostSpark",
           "href": "https://postspark.app/",
@@ -168,7 +160,16 @@
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
-      "items": [],
+      "items": [
+        {
+          "id": "1_7",
+          "title": "Tensor.art",
+          "href": "https://tensor.art/",
+          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
+          "icon": "/assets/images/logos/tensorart.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "040ea98a-d3ac-4c50-922f-7220bae1a950",
