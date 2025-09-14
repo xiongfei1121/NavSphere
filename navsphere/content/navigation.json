@@ -28,6 +28,14 @@
           "description": "访问 ai-bot.cn",
           "icon": "/assets/favicon_1757671406608.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757822559927_qklr9vuak",
+          "title": "德宝的影视站",
+          "href": "https://v.ztt.qzz.io/",
+          "description": "影视聚合",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=v.ztt.qzz.io",
+          "enabled": true
         }
       ],
       "subCategories": [],
