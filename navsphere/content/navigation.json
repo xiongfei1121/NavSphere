@@ -624,6 +624,14 @@
           "description": "简单好用的设计工具创客贴帮助你轻松完成专业设计",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.chuangkit.com",
           "enabled": true
+        },
+        {
+          "id": "site_1757819758085_mmau5sstb",
+          "title": "ByteDance IconPark",
+          "href": "https://iconpark.oceanengine.com",
+          "description": "字节跳动图标库",
+          "icon": "/assets/favicon_1757819733795.svg",
+          "enabled": true
         }
       ],
       "subCategories": [
