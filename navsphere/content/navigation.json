@@ -737,14 +737,6 @@
               "enabled": true
             },
             {
-              "id": "8_1_6",
-              "title": "IcoMoonApp",
-              "href": "https://icomoon.io/app/",
-              "description": "Icon Font, SVG, PDF & PNG Generator",
-              "icon": "/assets/images/logos/IcoMoonApp.png",
-              "enabled": true
-            },
-            {
               "id": "8_1_8",
               "title": "flaticon",
               "href": "https://www.flaticon.com/",
