@@ -496,6 +496,14 @@
               "description": "Amazon Web Services 提供的云计算服务可靠、可扩展且费用合理。免费加入，只需按使用量付费。",
               "icon": "/assets/favicon_1757821485335.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1757821578080_zqmlb79so",
+              "title": "阿里云",
+              "href": "https://www.aliyun.com",
+              "description": "访问 www.aliyun.com",
+              "icon": "/assets/favicon_1757821557807.png",
+              "enabled": true
             }
           ]
         }
