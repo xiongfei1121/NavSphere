@@ -422,6 +422,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "bcf1f3f9-b4df-44ec-a91d-a0c29f9b4ac1",
+          "title": "AI图像处理",
+          "icon": "LayoutGrid",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
