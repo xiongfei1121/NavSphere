@@ -20,6 +20,14 @@
           "description": "访问 www.akxw.cn",
           "icon": "/assets/favicon_1757752661661.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757671421019_cjb3odlak",
+          "title": "Ai工具集",
+          "href": "https://ai-bot.cn/",
+          "description": "访问 ai-bot.cn",
+          "icon": "/assets/favicon_1757671406608.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -305,14 +313,6 @@
               "href": "https://www.coze.cn/",
               "description": "访问 www.coze.cn",
               "icon": "/assets/favicon_1757671365860.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1757671421019_cjb3odlak",
-              "title": "Ai工具集",
-              "href": "https://ai-bot.cn/",
-              "description": "访问 ai-bot.cn",
-              "icon": "/assets/favicon_1757671406608.png",
               "enabled": true
             },
             {
