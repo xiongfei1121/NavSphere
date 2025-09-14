@@ -488,6 +488,14 @@
               "description": "ClawCloud",
               "icon": "/assets/favicon_1757821285909.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757821521243_63kzxjzca",
+              "title": "亚马逊云计算服务",
+              "href": "https://aws.amazon.com",
+              "description": "Amazon Web Services 提供的云计算服务可靠、可扩展且费用合理。免费加入，只需按使用量付费。",
+              "icon": "/assets/favicon_1757821485335.ico",
+              "enabled": true
             }
           ]
         }
