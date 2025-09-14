@@ -176,6 +176,14 @@
           "description": "",
           "icon": "/assets/img_1757752706498.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757819395289_u5z5h5vtp",
+          "title": "Notion",
+          "href": "https://www.notion.so/",
+          "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+          "icon": "/assets/favicon_1757819381098.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
