@@ -152,6 +152,14 @@
           "description": "模型供应商",
           "icon": "/assets/favicon_1757820965854.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757821086887_iojjxsqxl",
+          "title": "OpenRouter",
+          "href": "https://openrouter.ai/",
+          "description": "A router for LLMs and other AI models模型供应商",
+          "icon": "/assets/favicon_1757821068506.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
