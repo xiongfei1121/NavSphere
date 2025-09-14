@@ -600,7 +600,16 @@
       "id": "8",
       "title": "设计工具",
       "icon": "Palette",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1757819583227_7btqvkl2o",
+          "title": "凡科快衅",
+          "href": "https://kt.fkw.com/",
+          "description": "访问 kt.fkw.com",
+          "icon": "/assets/favicon_1757819571732.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "8_1",
