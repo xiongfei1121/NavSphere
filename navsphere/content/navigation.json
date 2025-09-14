@@ -429,7 +429,16 @@
           "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1757860664896_8651xa50j",
+              "title": "佐糖",
+              "href": "https://picwish.cn/ai-blur-background",
+              "description": "AI模糊图片背景",
+              "icon": "/assets/favicon_1757860634344.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
