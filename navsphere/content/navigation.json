@@ -144,6 +144,14 @@
           "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
           "icon": "/assets/images/logos/tensorart.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1757820985813_lcdcjth47",
+          "title": "硅基流动",
+          "href": "https://cloud.siliconflow.cn/",
+          "description": "访问 cloud.siliconflow.cn",
+          "icon": "/assets/favicon_1757820965854.png",
+          "enabled": true
         }
       ],
       "subCategories": [
