@@ -735,6 +735,14 @@
               "description": "Search 590,912 free icons",
               "icon": "/assets/images/logos/iconarchive.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757860456152_1ct28v5cm",
+              "title": "字节跳动图标库",
+              "href": "https://iconpark.oceanengine.com/home",
+              "description": "访问 iconpark.oceanengine.com",
+              "icon": "/assets/favicon_1757860419367.png",
+              "enabled": true
             }
           ]
         }
