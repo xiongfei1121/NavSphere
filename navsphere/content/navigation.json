@@ -441,14 +441,6 @@
           "enabled": true
         },
         {
-          "id": "1736922380901",
-          "title": "Excalidraw",
-          "href": "https://excalidraw.com/",
-          "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
-          "icon": "/assets/img_1736922499401.png",
-          "enabled": true
-        },
-        {
           "id": "1737529639971",
           "title": "Cursor",
           "href": "https://www.cursor.com/",
