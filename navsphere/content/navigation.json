@@ -184,6 +184,14 @@
           "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
           "icon": "/assets/favicon_1757819381098.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1757819470085_h0qo3bhbd",
+          "title": "Get笔记",
+          "href": "https://www.biji.com/",
+          "description": "访问 www.biji.com",
+          "icon": "/assets/favicon_1757819454972.png",
+          "enabled": true
         }
       ],
       "subCategories": []
