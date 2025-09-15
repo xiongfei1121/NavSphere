@@ -879,6 +879,14 @@
           "description": "博客",
           "icon": "/assets/favicon_1757897798118.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757897849544_pc6tydl4m",
+          "title": "德宝聚合网盘",
+          "href": "https://alist.081213.xyz:8899/",
+          "description": "",
+          "icon": "/assets/favicon_1757897844600.png",
+          "enabled": true
         }
       ],
       "subCategories": []
