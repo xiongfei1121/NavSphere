@@ -445,6 +445,14 @@
               "description": "在线抠图",
               "icon": "/assets/favicon_1757860704318.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757896254725_9ptkjvx8c",
+              "title": "AI去水印",
+              "href": "https://www.watermarkremover.io/zh",
+              "description": "访问 www.watermarkremover.io",
+              "icon": "/assets/favicon_1757896237569.png",
+              "enabled": true
             }
           ]
         }
