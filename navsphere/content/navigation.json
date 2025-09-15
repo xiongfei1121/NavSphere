@@ -506,6 +506,14 @@
           "description": "TiQu.cc是一个免费的视频下载工具，支持从包括VK、TikTok、Facebook、Twitter、Instagram、Vimeo、Telegram等在内的100多个平台下载视频和音频。您可以在不登录的情况下下载高质量的1080p、2k、4k视频和图像。",
           "icon": "/assets/favicon_1757924902798.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1757924947881_is89gdfid",
+          "title": "适用于任何网站的快速视频下载器 - DataTool.vip",
+          "href": "https://www.datatool.vip/zh",
+          "description": "DataTool.vip 是您的一站式视频下载平台，涵盖 TikTok、Instagram、Twitter、Facebook、Dailymotion、Vimeo 以及几乎所有网站。快速、无水印，支持高达 4K 分辨率。下载您想要的任何视频！",
+          "icon": "/assets/favicon_1757924941661.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
