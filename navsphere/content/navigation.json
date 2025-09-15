@@ -895,6 +895,14 @@
           "description": "访问 dify.081213.xyz",
           "icon": "/assets/img_1757897967641.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757898102049_rts7fsvqo",
+          "title": "n8n.io - Workflow Automation",
+          "href": "https://n8.081213.xyz:8899/",
+          "description": "",
+          "icon": "/assets/img_1757898099080.png",
+          "enabled": true
         }
       ],
       "subCategories": []
