@@ -887,6 +887,14 @@
           "description": "",
           "icon": "/assets/favicon_1757897844600.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757897972053_yhshiuk9j",
+          "title": "Dify",
+          "href": "https://dify.081213.xyz:8899/",
+          "description": "访问 dify.081213.xyz",
+          "icon": "/assets/img_1757897967641.png",
+          "enabled": true
         }
       ],
       "subCategories": []
