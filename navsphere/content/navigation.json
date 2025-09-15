@@ -474,6 +474,14 @@
           "description": "一个轻量的工具集合",
           "icon": "/assets/favicon_1757924615026.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1757924680919_1jzxarcuc",
+          "title": "即时工具",
+          "href": "https://www.67tool.com/",
+          "description": "致力打造安全、快捷、好用的在线工具箱~",
+          "icon": "/assets/favicon_1757924652229.png",
+          "enabled": true
         }
       ],
       "subCategories": []
