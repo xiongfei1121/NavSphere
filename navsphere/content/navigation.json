@@ -903,6 +903,14 @@
           "description": "",
           "icon": "/assets/img_1757898099080.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757898169855_q37pkzuki",
+          "title": "🎙️ 德宝专属TTS 语音服务",
+          "href": "https://tts.ztt.qzz.io/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tts.ztt.qzz.io",
+          "enabled": true
         }
       ],
       "subCategories": []
