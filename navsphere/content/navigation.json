@@ -514,6 +514,14 @@
           "description": "DataTool.vip 是您的一站式视频下载平台，涵盖 TikTok、Instagram、Twitter、Facebook、Dailymotion、Vimeo 以及几乎所有网站。快速、无水印，支持高达 4K 分辨率。下载您想要的任何视频！",
           "icon": "/assets/favicon_1757924941661.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1757925105565_clytcjohm",
+          "title": "聚合数据api",
+          "href": "https://www.juhe.cn/",
+          "description": "访问 www.juhe.cn",
+          "icon": "/assets/favicon_1757925090072.png",
+          "enabled": true
         }
       ],
       "subCategories": []
