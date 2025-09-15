@@ -466,7 +466,16 @@
       "icon": "Zap",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1757924619376_h0ev354ju",
+          "title": "MikuTools - 一个轻量的工具集合",
+          "href": "https://tools.miku.ac/",
+          "description": "一个轻量的工具集合",
+          "icon": "/assets/favicon_1757924615026.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
