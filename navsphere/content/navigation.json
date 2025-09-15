@@ -871,7 +871,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1757897810978_jzu8ijh0x",
+          "title": "德宝`blog",
+          "href": "https://halo.081213.xyz:8899/",
+          "description": "博客",
+          "icon": "/assets/favicon_1757897798118.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
