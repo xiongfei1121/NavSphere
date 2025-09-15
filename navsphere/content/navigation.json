@@ -864,6 +864,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1757897709434",
+      "title": "德宝部署应用",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
