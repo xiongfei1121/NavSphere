@@ -562,6 +562,14 @@
           "description": "一个轻量的工具集合",
           "icon": "/assets/favicon_1757896739912.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1757898810252_gduk8rot4",
+          "title": "Supabase",
+          "href": "https://supabase.com",
+          "description": "免费数据库",
+          "icon": "/assets/favicon_1757898782228.png",
+          "enabled": true
         }
       ],
       "subCategories": [
