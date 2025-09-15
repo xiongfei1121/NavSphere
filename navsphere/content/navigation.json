@@ -461,6 +461,15 @@
       "enabled": true
     },
     {
+      "id": "1757924529143",
+      "title": "在线工具",
+      "icon": "Zap",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1735265493940",
       "title": "开发者工具",
       "icon": "Box",
@@ -929,15 +938,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1757924529143",
-      "title": "在线工具",
-      "icon": "Zap",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
