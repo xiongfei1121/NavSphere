@@ -554,6 +554,14 @@
           "description": "访问 gitee.com 国产github",
           "icon": "/assets/favicon_1757896133855.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757896747398_kr579h1ld",
+          "title": "MikuTools - 一个轻量的工具集合",
+          "href": "https://tools.miku.ac/",
+          "description": "一个轻量的工具集合",
+          "icon": "/assets/favicon_1757896739912.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
