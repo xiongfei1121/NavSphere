@@ -538,6 +538,14 @@
           "description": "网站测速",
           "icon": "/assets/favicon_1757860779846.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757896159842_bscvt1zsr",
+          "title": "Gitee",
+          "href": "https://gitee.com/",
+          "description": "访问 gitee.com 国产github",
+          "icon": "/assets/favicon_1757896133855.png",
+          "enabled": true
         }
       ],
       "subCategories": [
