@@ -482,6 +482,14 @@
           "description": "致力打造安全、快捷、好用的在线工具箱~",
           "icon": "/assets/favicon_1757924652229.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757924785328_4tddvwsl8",
+          "title": "便民查询网",
+          "href": "https://www.bmcx.com/",
+          "description": "免费查询工具大全",
+          "icon": "/assets/favicon_1757924747267.png",
+          "enabled": true
         }
       ],
       "subCategories": []
