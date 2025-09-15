@@ -751,6 +751,14 @@
           "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
           "icon": "/assets/images/logos/shots.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1757896214175_3yn1z8f68",
+          "title": "视频转gif",
+          "href": "https://ezgif.com/",
+          "description": "Easy to use online animated GIF maker and image editor. Create, convert, crop, resize, reverse, optimize animated GIF, WebP, APNG files, images and videos.",
+          "icon": "/assets/favicon_1757896193669.png",
+          "enabled": true
         }
       ],
       "subCategories": [
