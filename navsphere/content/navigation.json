@@ -911,6 +911,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=tts.ztt.qzz.io",
           "enabled": true
+        },
+        {
+          "id": "site_1757898205334_xv147a0dg",
+          "title": "网址短链",
+          "href": "https://s.ztt.qzz.io/",
+          "description": "A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+          "icon": "/assets/favicon_1757898188966.png",
+          "enabled": true
         }
       ],
       "subCategories": []
