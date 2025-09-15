@@ -498,6 +498,14 @@
           "description": "随机生成美国地址, 身份信息，信用卡信息，手机号码和其他基本信息。还会随机生成工作信息，财务信息，兴趣爱好等信息。",
           "icon": "/assets/favicon_1757924840771.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1757924909723_00vz5wc1q",
+          "title": "从所有网络提取视频/图像，TikTok、Twitter、Instagram、VK视频下载",
+          "href": "https://tiqu.cc/",
+          "description": "TiQu.cc是一个免费的视频下载工具，支持从包括VK、TikTok、Facebook、Twitter、Instagram、Vimeo、Telegram等在内的100多个平台下载视频和音频。您可以在不登录的情况下下载高质量的1080p、2k、4k视频和图像。",
+          "icon": "/assets/favicon_1757924902798.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
