@@ -793,6 +793,14 @@
           "description": "小红书创作中心",
           "icon": "/assets/img_1736912766835.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758275387802_pwa4ttftl",
+          "title": "Freesound无版权音乐",
+          "href": "https://www.freesound.cn",
+          "description": "访问 www.freesound.cn",
+          "icon": "/assets/favicon_1758275355346.png",
+          "enabled": true
         }
       ],
       "subCategories": []
