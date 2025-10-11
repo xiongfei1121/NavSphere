@@ -428,6 +428,14 @@
               "description": "",
               "icon": "/assets/img_1757896076016.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760168220967_t3jxn8sei",
+              "title": "Cherry Studio官网",
+              "href": "https://cherrystudiocn.com/",
+              "description": "Cherry Studio基于AI技术打造多元化设计工具，支持快速生成与智能调优，帮助创作者高效产出时尚、现代的视觉方案，激发无限灵感。",
+              "icon": "/assets/favicon_1760168206223.ico",
+              "enabled": true
             }
           ]
         },
