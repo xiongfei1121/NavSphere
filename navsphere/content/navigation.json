@@ -1017,6 +1017,14 @@
           "description": "A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
           "icon": "/assets/favicon_1757898188966.png",
           "enabled": true
+        },
+        {
+          "id": "site_1763601542361_rbsaohwp3",
+          "title": "德宝在线听歌平台",
+          "href": "https://m.ztt.qzz.io ",
+          "description": "",
+          "icon": "/assets/favicon_1763601536157.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
