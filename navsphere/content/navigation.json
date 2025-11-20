@@ -1025,6 +1025,14 @@
           "description": "",
           "icon": "/assets/favicon_1763601536157.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1763601649584_01xt2op4w",
+          "title": "文本、文件分享您的内容",
+          "href": "https://cp.ztt.qzz.io",
+          "description": "CloudPaste - 安全分享您的内容，支持 Markdown 编辑和文件上传",
+          "icon": "/assets/favicon_1763601623158.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
