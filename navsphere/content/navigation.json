@@ -1033,6 +1033,14 @@
           "description": "CloudPaste - 安全分享您的内容，支持 Markdown 编辑和文件上传",
           "icon": "/assets/favicon_1763601623158.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1763601810660_lg6t01yzx",
+          "title": "网盘资源搜索",
+          "href": "https://pansou.081213.xyz:8899",
+          "description": "",
+          "icon": "/assets/favicon_1763601798672.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
