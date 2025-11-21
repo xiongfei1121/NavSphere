@@ -1041,6 +1041,14 @@
           "description": "",
           "icon": "/assets/favicon_1763601798672.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1763733700434_4eld4q4sb",
+          "title": "订阅管理系统",
+          "href": "https://dy.ztt.qzz.io",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dy.ztt.qzz.io",
+          "enabled": true
         }
       ],
       "subCategories": []
