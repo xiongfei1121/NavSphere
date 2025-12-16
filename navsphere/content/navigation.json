@@ -734,6 +734,14 @@
               "description": "",
               "icon": "/assets/favicon_1757896301136.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1765862654011_7y0owh1xm",
+              "title": "Client Area - DNSHE",
+              "href": "https://my.dnshe.com/clientarea.php",
+              "description": "de5.net免费域名",
+              "icon": "/assets/favicon_1765862400730.png",
+              "enabled": true
             }
           ]
         }
