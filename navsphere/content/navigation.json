@@ -168,6 +168,14 @@
           "description": "访问 www.biji.com",
           "icon": "/assets/favicon_1757819454972.png",
           "enabled": true
+        },
+        {
+          "id": "site_1766122850001_o0b6h1jha",
+          "title": "Chrome插件下载站",
+          "href": "https://crxdl.com/",
+          "description": "免费下载Chrome插件扩展程序，支持Manifest V2和V3版本，提供丰富的插件分类和搜索功能",
+          "icon": "/assets/favicon_1766122859222.png",
+          "enabled": true
         }
       ],
       "subCategories": []
