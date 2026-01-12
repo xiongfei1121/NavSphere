@@ -1065,6 +1065,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dy.ztt.qzz.io",
           "enabled": true
+        },
+        {
+          "id": "site_1768196283713_8rzayes7g",
+          "title": "我的主页",
+          "href": "www.howdz.xyz/?preview=https://tv.qtt.qzz.io/Dashboard.json",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
