@@ -60,6 +60,14 @@
           "description": "安康融媒app后台",
           "icon": "/assets/img_1759740613028.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769652707562_pi5pismqw",
+          "title": "安康日报电子报",
+          "href": "https://sjk.akxw.cn/",
+          "description": "访问 sjk.akxw.cn",
+          "icon": "/assets/favicon_1769652688762.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
