@@ -68,6 +68,14 @@
           "description": "访问 sjk.akxw.cn",
           "icon": "/assets/favicon_1769652688762.png",
           "enabled": true
+        },
+        {
+          "id": "site_1772097270778_3b8n9zfqi",
+          "title": "融媒办公生产平台",
+          "href": "https://moc.akrt.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1772097236448.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
