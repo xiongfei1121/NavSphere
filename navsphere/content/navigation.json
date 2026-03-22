@@ -68,6 +68,14 @@
           "description": "",
           "icon": "/assets/favicon_1772097236448.png",
           "enabled": true
+        },
+        {
+          "id": "site_1774162660438_57ec0io77",
+          "title": "一键测速网",
+          "href": "https://speedtest.im/",
+          "description": "一个轻量级的HTML5网速测试网站，支持联通专线节点、教育网多线测速节点，统计网速排行榜、测试网页打开速度功能，电信移动联通宽带在线测速,网络延迟在线ping，支持Speedtest.net全球节点",
+          "icon": "/assets/favicon_1774162647909.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
