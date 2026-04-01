@@ -192,6 +192,14 @@
           "description": "免费下载Chrome插件扩展程序，支持Manifest V2和V3版本，提供丰富的插件分类和搜索功能",
           "icon": "/assets/favicon_1766122859222.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775009747484_6qojqu7a7",
+          "title": "大盘热力图",
+          "href": "https://52etf.site/",
+          "description": "大盘热力图",
+          "icon": "/assets/favicon_1775009724607.png",
+          "enabled": true
         }
       ],
       "subCategories": []
