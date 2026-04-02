@@ -929,6 +929,14 @@
           "description": "猫啃网致力于与大家分享无版权问题的免费商用字体信息，欢迎大家常来逛逛。",
           "icon": "/assets/favicon_1775114688650.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1775114747785_bz8m6l4pn",
+          "title": "喵闪字库",
+          "href": "https://www.miao3.cn/",
+          "description": "访问 www.miao3.cn",
+          "icon": "/assets/favicon_1775114721117.png",
+          "enabled": true
         }
       ],
       "subCategories": [
