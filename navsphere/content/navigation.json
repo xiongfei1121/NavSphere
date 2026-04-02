@@ -921,6 +921,14 @@
           "description": "Easy to use online animated GIF maker and image editor. Create, convert, crop, resize, reverse, optimize animated GIF, WebP, APNG files, images and videos.",
           "icon": "/assets/favicon_1757896193669.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775114701906_vm81ylsyx",
+          "title": "猫啃网",
+          "href": "https://www.maoken.com/",
+          "description": "猫啃网致力于与大家分享无版权问题的免费商用字体信息，欢迎大家常来逛逛。",
+          "icon": "/assets/favicon_1775114688650.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
