@@ -937,6 +937,14 @@
           "description": "访问 www.miao3.cn",
           "icon": "/assets/favicon_1775114721117.png",
           "enabled": true
+        },
+        {
+          "id": "site_1775197480017_pms9jsj8c",
+          "title": "免费开源矢量图标一站式搜索、预览、取用平台",
+          "href": "https://icon-sets.iconify.design/",
+          "description": "Open source vector icons from all popular icon sets: 290908 icons from 209 icon sets.",
+          "icon": "/assets/favicon_1775197426109.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
