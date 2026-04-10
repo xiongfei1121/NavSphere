@@ -90,6 +90,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "site_1775810789927_o73e7kjxo",
+          "title": "标题图生成",
+          "href": "https://s.ztt.qzz.io/image",
+          "description": "书记稿件标题图生成",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=s.ztt.qzz.io",
+          "enabled": true
+        },
+        {
           "id": "site_1757566692835_el8c3jl54",
           "title": "秘塔写作猫",
           "href": "https://xiezuocat.com/",
@@ -199,14 +207,6 @@
           "href": "https://52etf.site/",
           "description": "大盘云图-A股热力图",
           "icon": "/assets/favicon_1775009724607.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1775810789927_o73e7kjxo",
-          "title": "标题图生成",
-          "href": "https://s.ztt.qzz.io/image",
-          "description": "书记稿件标题图生成",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=s.ztt.qzz.io",
           "enabled": true
         }
       ],
