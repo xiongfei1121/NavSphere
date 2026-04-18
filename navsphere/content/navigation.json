@@ -700,6 +700,14 @@
           "description": "免费数据库",
           "icon": "/assets/favicon_1757898782228.png",
           "enabled": true
+        },
+        {
+          "id": "site_1776478104276_tufuor9xg",
+          "title": "技术猿API",
+          "href": "https://api.zbape.com/",
+          "description": "提供给开发者即时方便快捷的API接口调用方案，免费、稳定、易用的API接口平台。",
+          "icon": "/assets/favicon_1776478091074.png",
+          "enabled": true
         }
       ],
       "subCategories": [
