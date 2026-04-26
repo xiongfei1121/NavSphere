@@ -208,6 +208,14 @@
           "description": "大盘云图-A股热力图",
           "icon": "/assets/favicon_1775009724607.png",
           "enabled": true
+        },
+        {
+          "id": "site_1777174165224_ygknuwvf4",
+          "title": "🐻老熊图片压缩 Web",
+          "href": "https://tiny.081213.xyz",
+          "description": "🐻老熊图片压缩 - 免费的在线图片压缩工具，支持 JPG、PNG、WebP 格式，支持批量压缩和预览，让图片更小，上传更快。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tiny.081213.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
