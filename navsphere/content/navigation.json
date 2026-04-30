@@ -99,10 +99,10 @@
         },
         {
           "id": "site_1777174165224_ygknuwvf4",
-          "title": "🐻老熊图片压缩 Web",
-          "href": "https://tiny.081213.xyz",
-          "description": "🐻老熊图片压缩 - 免费的在线图片压缩工具，支持 JPG、PNG、WebP 格式，支持批量压缩和预览，让图片更小，上传更快。",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tiny.081213.xyz",
+          "title": "图像处理工具集",
+          "href": "https://s.ztt.qzz.io/imagehub",
+          "description": "图像压缩、图像拼接、格式转换、图像裁剪、图像调整、\n图像加水印",
+          "icon": "/assets/img_1777534901217.png",
           "enabled": true
         },
         {
