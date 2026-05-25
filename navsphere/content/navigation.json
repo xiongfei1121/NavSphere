@@ -594,6 +594,14 @@
           "description": "访问 www.juhe.cn",
           "icon": "/assets/favicon_1757925090072.png",
           "enabled": true
+        },
+        {
+          "id": "item-1779689810346",
+          "enabled": true,
+          "title": "Vdown - 去水印下载视频",
+          "href": "https://xiazaishipin.com/",
+          "description": "免费、高清、快速下载抖音（TikTok）、小红书、B站、Twitter（X）、Instagram、Reddit、Facebook、微信视频号等平台的视频，支持批量下载。",
+          "icon": "/assets/favicon_1779689804022.ico"
         }
       ],
       "subCategories": []
