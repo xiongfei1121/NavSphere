@@ -1063,6 +1063,14 @@
           "description": "探索来自世界各地的精选睡前故事，让孩子在温馨的故事中进入梦乡",
           "icon": "/assets/favicon_1757751717249.png",
           "enabled": true
+        },
+        {
+          "id": "site_1791884696994_lclz2jra3",
+          "title": "陕西政务服务网",
+          "href": "https://zwfw.shaanxi.gov.cn/",
+          "description": "访问 zwfw.shaanxi.gov.cn",
+          "icon": "/assets/favicon_1791884675489.png",
+          "enabled": true
         }
       ],
       "subCategories": []
