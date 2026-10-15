@@ -18,9 +18,9 @@ declare module 'next-auth' {
 
 const config = {
   providers: [
-    GithubProvider({
-      clientId: process.env.GITHUB_CLIENT_ID!,
-      clientSecret: process.env.GITHUB_CLIENT_SECRET!,
+GithubProvider({
+      clientId: process.env.GITHUB_CLIENT_ID || process.env.GITHUB_ID || '',
+      clientSecret: process.env.GITHUB_CLIENT_SECRET || process.env.GITHUB_SECRET || '',
       authorization: {
         params: { scope: 'repo' }
       }
@@ -43,7 +43,10 @@ const config = {
   pages: {
     signIn: '/auth/signin'
   },
-  secret: process.env.AUTH_SECRET || process.env.GITHUB_CLIENT_SECRET
+  secret: process.env.AUTH_SECRET || process.env.NEXTAUTH_SECRET || process.env.GITHUB_CLIENT_SECRET || process.env.GITHUB_SECRET,
+  session: {
+    strategy: 'jwt'
+  }
 } satisfies NextAuthConfig
 
 const handler = NextAuth(config)

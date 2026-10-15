@@ -3,15 +3,15 @@ import GithubProvider from 'next-auth/providers/github'
 
 export const authConfig: NextAuthConfig = {
   providers: [
-    GithubProvider({
-      clientId: process.env.GITHUB_CLIENT_ID!,
-      clientSecret: process.env.GITHUB_CLIENT_SECRET!,
+GithubProvider({
+      clientId: process.env.GITHUB_CLIENT_ID || process.env.GITHUB_ID || '',
+      clientSecret: process.env.GITHUB_CLIENT_SECRET || process.env.GITHUB_SECRET || '',
       authorization: {
         params: { scope: 'repo' }
       }
     })
   ],
-  secret: process.env.NEXTAUTH_SECRET,
+  secret: process.env.AUTH_SECRET || process.env.NEXTAUTH_SECRET || process.env.GITHUB_SECRET || process.env.GITHUB_CLIENT_SECRET,
   session: {
     strategy: 'jwt'
   }
